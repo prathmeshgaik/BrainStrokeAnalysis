@@ -74,8 +74,8 @@ results/
 ### Clone Repository
 
 ```bash
-git clone <repo>
-cd BrainStrokePrediction
+git clone https://github.com/yourusername/BrainStrokeAnalysis.git
+cd BrainStrokeAnalysis
 ```
 
 ### Install Dependencies
