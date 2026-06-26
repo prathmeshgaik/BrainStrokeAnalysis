@@ -270,12 +270,9 @@ The project includes an interactive Streamlit application that allows users to:
 
 This project is developed for educational and research purposes only. It should not be considered a substitute for professional medical advice, diagnosis, or treatment.
 
----
+```
+## 📄 License
 
-## 👨‍💻 Author
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+```
 
-**Prathmesh Gaikwad**
-
-B.Tech Computer Science and Engineering
-
-Passionate about Machine Learning, Full Stack Development, Artificial Intelligence, and Data Analytics.
