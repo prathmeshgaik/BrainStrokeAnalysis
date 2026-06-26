@@ -271,8 +271,9 @@ The project includes an interactive Streamlit application that allows users to:
 This project is developed for educational and research purposes only. It should not be considered a substitute for professional medical advice, diagnosis, or treatment.
 
 ```
-## 📄 License
+ 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. 
+
 ```
 
